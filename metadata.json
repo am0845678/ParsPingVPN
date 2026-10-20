@@ -1,0 +1,6 @@
+{
+  "name": "Pars Ping VPN",
+  "description": "فیلترشکن و سرویس VPN اختصاصی پارس پینگ با پینگ پایین و امنیت بالا",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
